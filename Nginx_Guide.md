@@ -1,5 +1,7 @@
 # Nginx — What It Is and How It Works
 
+![Nginx Reverse Proxy Architecture](https://miro.medium.com/1*Gm_q3hi9cBRFeGA1NoxowQ.png)
+
 ## What is Nginx?
 
 Nginx (pronounced "engine-x") is a web server that sits **in front of your app**. When someone visits your site, the request hits Nginx first — Nginx then decides where to send it.
